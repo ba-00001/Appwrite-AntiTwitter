@@ -1,3 +1,5 @@
+#ShellHacksHacktathon
+
 Inspiration
 Our inspiration for creating this Twitter clone app with Kotlin was to learn and showcase our skills in Android app development. Twitter is a widely popular social media platform, and building a clone allowed us to explore various features and functionalities while honing our programming abilities.
 
